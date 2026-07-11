@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(3,38%,10%)"/>
+      <stop offset="55%" stop-color="hsl(31,30%,15%)"/>
+      <stop offset="100%" stop-color="hsl(3,45%,6%)"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="rgba(212,175,55,0.35)"/>
+      <stop offset="100%" stop-color="rgba(212,175,55,0)"/>
+    </radialGradient>
+    <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <circle cx="1" cy="1" r="0.5" fill="rgba(255,255,255,0.03)"/>
+    </pattern>
+  </defs>
+  <rect width="1240" height="1754" fill="url(#g)"/>
+  <rect width="1240" height="1754" fill="url(#glow)"/>
+  <rect width="1240" height="1754" fill="url(#grain)"/>
+  <rect x="0" y="0" width="1240" height="1754" fill="none" stroke="rgba(212,175,55,0.25)" stroke-width="2"/>
+  <text x="50%" y="47%" font-family="Georgia, serif" font-size="68" fill="#D4AF37" text-anchor="middle" opacity="0.85">MENU — PAGE 2</text>
+  <text x="50%" y="55%" font-family="Arial, sans-serif" font-size="27" fill="#c9c2b2" text-anchor="middle" opacity="0.6">Replace with menu2.jpg</text>
+</svg>
